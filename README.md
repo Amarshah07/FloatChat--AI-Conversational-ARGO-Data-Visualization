@@ -2,7 +2,9 @@
 
 **FloatChat** is an intelligent, conversational data explorer for ARGO oceanographic data, built for the Smart India Hackathon. It uses a hybrid AI system to allow users to ask complex questions in natural language and receive instant, interactive visualizations.
 
----
+## Checkout  Demo Video
+
+[![Watch the Demo](https://img.youtube.com/vi/YQb5skXkVkQ/hqdefault.jpg)](https://youtu.be/YQb5skXkVkQ)
 
 ### ## Key Features
 
